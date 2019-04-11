@@ -53,7 +53,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
             
         }
             else {
-            Label.text = "뭐"
+            Label.text = "문자 노노 숫자 ㄱ"
         }
     }
     public func textFieldShouldClear(_ textField: UITextField) -> Bool {
